@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/pavel/Desktop/Оси_Прак_пересда/7_prob/main.c
+stdio.h
+-
+unistd.h
+-
+stdlib.h
+-
+signal.h
+-
+errno.h
+-
+string.h
+-
+sys/types.h
+-
+wait.h
+-
+inttypes.h
+-
+
