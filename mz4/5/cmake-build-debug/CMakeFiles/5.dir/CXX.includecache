@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/pavel/CLionProjects/untitled/контесты/mz4/5/main.cpp
+iostream
+-
+fstream
+-
+iomanip
+-
+sstream
+-
+string
+-
+set
+-
+vector
+-
+algorithm
+-
+

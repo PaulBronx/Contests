@@ -1,0 +1,4 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /mnt/c/Users/pavel/CLionProjects/untitled/контесты/mz03/untitled/tt
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /mnt/c/Users/pavel/CLionProjects/untitled/ÐºÐ¾Ð½Ñ‚ÐµÑ�Ñ‚Ñ‹/mz03/untitled/tt/cmake-build-debug

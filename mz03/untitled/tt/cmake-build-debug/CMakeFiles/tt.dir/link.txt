@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/tt.dir/main.cpp.o  -o tt 

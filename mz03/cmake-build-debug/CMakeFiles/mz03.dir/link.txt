@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/mz03.dir/main.cpp.o  -o mz03 

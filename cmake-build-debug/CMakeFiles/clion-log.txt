@@ -1,0 +1,38 @@
+"C:\Program Files\JetBrains\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - NMake Makefiles" C:\Users\pavel\CLionProjects\untitled\контесты
+-- The C compiler identification is MSVC 19.28.29337.0
+-- The CXX compiler identification is MSVC 19.28.29337.0
+-- Check for working C compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.28.29333/bin/Hostx86/x86/cl.exe
+-- Check for working C compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.28.29333/bin/Hostx86/x86/cl.exe - broken
+CMake Error at C:/Program Files/JetBrains/CLion 2020.3.2/bin/cmake/win/share/cmake-3.17/Modules/CMakeTestCCompiler.cmake:60 (message):
+  The C compiler
+
+    "C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.28.29333/bin/Hostx86/x86/cl.exe"
+
+  is not able to compile a simple test program.
+
+  It fails with the following output:
+
+    Change Dir: C:/Users/pavel/CLionProjects/untitled/ÐºÐ¾Ð½Ñ‚ÐµÑ�Ñ‚Ñ‹/cmake-build-debug/CMakeFiles/CMakeTmp
+    
+    Run Build Command(s):nmake /nologo cmTC_d27b5\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_d27b5.dir\build.make /nologo -L                  CMakeFiles\cmTC_d27b5.dir\build
+    Building C object CMakeFiles/cmTC_d27b5.dir/testCCompiler.c.obj
+    	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.293\bin\Hostx86\x86\cl.exe @C:\Users\pavel\AppData\Local\Temp\nm5135.tmp
+    testCCompiler.c
+    c1: fatal error C1083: ?? ??????? ??????? ???? ????????: C:\Users\pavel\CLionProjects\untitled\????????\cmake-build-debug\CMakeFiles\CMakeTmp\testCCompiler.c: No such file or directory,
+    NMAKE : fatal error U1077: C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.293\bin\Hostx86\x86\cl.exe : Î“ÎµÏ„Î“â‰¡Î±âˆ™ÏƒÏ†Ï†âˆšÎ˜ Î©ÎµÎ£ "0x2"
+    Stop.
+    NMAKE : fatal error U1077: "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\bin\HostX86\x86\nmake.exe" : Î“ÎµÏ„Î“â‰¡Î±âˆ™ÏƒÏ†Ï†âˆšÎ˜ Î©ÎµÎ£ "0x2"
+    Stop.
+    
+    
+
+  
+
+  CMake will not be able to correctly generate this project.
+Call Stack (most recent call first):
+  CMakeLists.txt:2 (project)
+
+
+-- Configuring incomplete, errors occurred!
+See also "C:/Users/pavel/CLionProjects/untitled/ÐºÐ¾Ð½Ñ‚ÐµÑ�Ñ‚Ñ‹/cmake-build-debug/CMakeFiles/CMakeOutput.log".
+See also "C:/Users/pavel/CLionProjects/untitled/ÐºÐ¾Ð½Ñ‚ÐµÑ�Ñ‚Ñ‹/cmake-build-debug/CMakeFiles/CMakeError.log".

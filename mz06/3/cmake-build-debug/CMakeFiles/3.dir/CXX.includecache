@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/pavel/CLionProjects/untitled/контесты/mz06/3/main.cpp
+cinttypes
+-
+iostream
+-
+utility
+-
+map
+-
+

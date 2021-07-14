@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/pavel/CLionProjects/untitled/контесты/mz03/04/main.cpp
+iostream
+-
+string
+-
+sstream
+-
+vector
+-
+cmath
+-
+cmc_complex.h
+/mnt/c/Users/pavel/CLionProjects/untitled/контесты/mz03/04/cmc_complex.h
+cmc_complex_stack.h
+/mnt/c/Users/pavel/CLionProjects/untitled/контесты/mz03/04/cmc_complex_stack.h
+cmc_complex_eval.h
+/mnt/c/Users/pavel/CLionProjects/untitled/контесты/mz03/04/cmc_complex_eval.h
+

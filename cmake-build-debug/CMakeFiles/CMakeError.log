@@ -1,0 +1,60 @@
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/pavel/CLionProjects/untitled/контесты/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_703ea\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_703ea.dir\build.make /nologo -L                  CMakeFiles\cmTC_703ea.dir\build
+Building C object CMakeFiles/cmTC_703ea.dir/testCCompiler.c.obj
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.293\bin\Hostx86\x86\cl.exe @C:\Users\pavel\AppData\Local\Temp\nm96F6.tmp
+testCCompiler.c
+c1: fatal error C1083: ?? ??????? ??????? ???? ????????: C:\Users\pavel\CLionProjects\untitled\????????\cmake-build-debug\CMakeFiles\CMakeTmp\testCCompiler.c: No such file or directory,
+NMAKE : fatal error U1077: C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.293\bin\Hostx86\x86\cl.exe : ΓετΓ≡α∙σφφ√Θ ΩεΣ "0x2"
+Stop.
+NMAKE : fatal error U1077: "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\bin\HostX86\x86\nmake.exe" : ΓετΓ≡α∙σφφ√Θ ΩεΣ "0x2"
+Stop.
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/pavel/CLionProjects/untitled/контесты/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_a8300\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_a8300.dir\build.make /nologo -L                  CMakeFiles\cmTC_a8300.dir\build
+Building C object CMakeFiles/cmTC_a8300.dir/testCCompiler.c.obj
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.293\bin\Hostx86\x86\cl.exe @C:\Users\pavel\AppData\Local\Temp\nm1E17.tmp
+testCCompiler.c
+c1: fatal error C1083: ?? ??????? ??????? ???? ????????: C:\Users\pavel\CLionProjects\untitled\????????\cmake-build-debug\CMakeFiles\CMakeTmp\testCCompiler.c: No such file or directory,
+NMAKE : fatal error U1077: C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.293\bin\Hostx86\x86\cl.exe : ΓετΓ≡α∙σφφ√Θ ΩεΣ "0x2"
+Stop.
+NMAKE : fatal error U1077: "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\bin\HostX86\x86\nmake.exe" : ΓετΓ≡α∙σφφ√Θ ΩεΣ "0x2"
+Stop.
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/pavel/CLionProjects/untitled/контесты/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_c862e\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_c862e.dir\build.make /nologo -L                  CMakeFiles\cmTC_c862e.dir\build
+Building C object CMakeFiles/cmTC_c862e.dir/testCCompiler.c.obj
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.293\bin\Hostx86\x86\cl.exe @C:\Users\pavel\AppData\Local\Temp\nm4CA9.tmp
+testCCompiler.c
+c1: fatal error C1083: ?? ??????? ??????? ???? ????????: C:\Users\pavel\CLionProjects\untitled\????????\cmake-build-debug\CMakeFiles\CMakeTmp\testCCompiler.c: No such file or directory,
+NMAKE : fatal error U1077: C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.293\bin\Hostx86\x86\cl.exe : ΓετΓ≡α∙σφφ√Θ ΩεΣ "0x2"
+Stop.
+NMAKE : fatal error U1077: "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\bin\HostX86\x86\nmake.exe" : ΓετΓ≡α∙σφφ√Θ ΩεΣ "0x2"
+Stop.
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/pavel/CLionProjects/untitled/контесты/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_d27b5\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_d27b5.dir\build.make /nologo -L                  CMakeFiles\cmTC_d27b5.dir\build
+Building C object CMakeFiles/cmTC_d27b5.dir/testCCompiler.c.obj
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.293\bin\Hostx86\x86\cl.exe @C:\Users\pavel\AppData\Local\Temp\nm5135.tmp
+testCCompiler.c
+c1: fatal error C1083: ?? ??????? ??????? ???? ????????: C:\Users\pavel\CLionProjects\untitled\????????\cmake-build-debug\CMakeFiles\CMakeTmp\testCCompiler.c: No such file or directory,
+NMAKE : fatal error U1077: C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.293\bin\Hostx86\x86\cl.exe : ΓετΓ≡α∙σφφ√Θ ΩεΣ "0x2"
+Stop.
+NMAKE : fatal error U1077: "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\bin\HostX86\x86\nmake.exe" : ΓετΓ≡α∙σφφ√Θ ΩεΣ "0x2"
+Stop.
+
+
+

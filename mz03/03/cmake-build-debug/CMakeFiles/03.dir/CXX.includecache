@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/pavel/CLionProjects/untitled/контесты/mz03/03/main.cpp
+pis.h
+/mnt/c/Users/pavel/CLionProjects/untitled/контесты/mz03/03/pis.h
+pis_1.h
+/mnt/c/Users/pavel/CLionProjects/untitled/контесты/mz03/03/pis_1.h
+string
+-
+vector
+-
+map
+-
+functional
+-
+
+/mnt/c/Users/pavel/CLionProjects/untitled/контесты/mz03/03/pis.h
+
+/mnt/c/Users/pavel/CLionProjects/untitled/контесты/mz03/03/pis_1.h
+iostream
+-
+cstdio
+-
+string
+-
+sstream
+-
+cmath
+-
+
